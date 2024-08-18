@@ -1,10 +1,10 @@
 # godot-addon-uuid-v4
 
-This is a simple Godot Engine plugin that generates UUID v4 strings. It is useful for generating unique identifiers for your game objects.
+This is a simple Godot Engine plugin that generates pseudo-random UUID v4 strings. It is useful for generating unique identifiers for your game objects.
 
 ## Installation
 
-1. Clone this repository into your Godot project's `addons` directory.
+1. Clone this repository or download and copy the `addons` directory into your Godot project's `addons` directory.
 2. Enable the plugin in your project settings.
 3. Add the `UUID` singleton to your project in the Autoload section of your project settings.
 
