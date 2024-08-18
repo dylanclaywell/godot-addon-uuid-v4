@@ -10,7 +10,7 @@ This is a simple Godot Engine plugin that generates pseudo-random UUID v4 string
 ## Usage
 
 ```gdscript
-var uuid = UUID.generate_id()
+var uuid = Uuid.generate_id()
 
 print(uuid) # 1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4c1e
 ```
