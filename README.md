@@ -6,7 +6,6 @@ This is a simple Godot Engine plugin that generates pseudo-random UUID v4 string
 
 1. Clone this repository or download and copy the `addons` directory into your Godot project's `addons` directory.
 2. Enable the plugin in your project settings.
-3. Add the `UUID` singleton to your project in the Autoload section of your project settings.
 
 ## Usage
 
