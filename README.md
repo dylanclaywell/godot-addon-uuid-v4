@@ -17,4 +17,4 @@ print(uuid) # 1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4c1e
 
 ## License
 
-[MIT Copyright (c) 2024 Dylan Claywell](LICENSE)
+[MIT Copyright (c) 2025 Dylan Claywell](LICENSE)
